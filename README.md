@@ -9,8 +9,8 @@ Two other talks in semi-recent past with some overlap (you might like the slides
 
 Want to see the slides?
 
-  * PDF is in this repo: []()
-  * View same over [on SpeakerDeck](https://speakerdeck.com/jennybc/)
+  * PDF is in this repo: [2015-08_bryan-jsm-stat-data-sci.pdf](2015-08_bryan-jsm-stat-data-sci.pdf)
+  * View same over [on SpeakerDeck](https://speakerdeck.com/jennybc/teach-data-science-and-they-will-come)
 
 Links
 ========================================================
