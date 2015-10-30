@@ -1,4 +1,4 @@
-# 2015-08-11_bryan-jsm-talk
+# 2015-08_bryan-jsm-stat-data-sci-talk
 
 [The Statistics Identity Crisis: Are We Really Data Scientists?](https://www.amstat.org/meetings/jsm/2015/onlineprogram/ActivityDetails.cfm?SessionID=211266), session organized by [Jeff Leek](http://jtleek.com)
 
