@@ -3,7 +3,9 @@
 [The Statistics Identity Crisis: Are We Really Data Scientists?](https://www.amstat.org/meetings/jsm/2015/onlineprogram/ActivityDetails.cfm?SessionID=211266), session organized by [Jeff Leek](http://jtleek.com)
 
   * Presented at the Joint Statistical Meetings August 2015, Seattle.
-  * Reprise as an ASA/Simply Statistics Webinar, October 2015, [amstat.org link](http://www.amstat.org/education/weblectures/index.cfm#JSMEncore), [Google Hangout](https://plus.google.com/events/chuviltukohj2inbqueap9h7228).
+  * Reprise as an ASA/Simply Statistics Webinar, October 2015
+    - [amstat.org link](http://www.amstat.org/education/weblectures/index.cfm#JSMEncore)
+    - watch it now on [youtube](https://youtu.be/JLs01Z5baSU)
   * Other speakers:
     - Alyssa Frazee, Stripe, <http://alyssafrazee.com>.  
       'Am I a Data Scientist?': The Applied Statistics Student's Identity Crisis.  
