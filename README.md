@@ -12,7 +12,8 @@
       How Industry Views Data Science Education in Statistics Departments.  
       Slides on [dropbox](https://www.dropbox.com/s/9mktsssujsapw3t/JSM2015-DataScience-Volinsky.pdf?dl=0).
     - Lance Waller, Emory University, <http://web1.sph.emory.edu/users/lwaller/>.  
-      Evaluating Data Science Contributions in Teaching and Research.
+      Evaluating Data Science Contributions in Teaching and Research.  
+      Slides [in this repo](2015-10_waller-data-science-promotion-tenure.pdf) 
 
 Want to see my slides?
 
